@@ -1,4 +1,3 @@
-%%writefile generator.py
 from pathlib import Path
 import urllib.request
 import numpy as np
